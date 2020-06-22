@@ -1,0 +1,63 @@
+
+body {
+	margin: 0px;
+}
+
+h1 {
+	color: blue;
+	border: 5px solid blue;
+}
+label {
+	color: #101010;
+	font-weight: bold;
+}
+
+.conatiner {
+	margin: 20px 100px 20px 100px;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+table tr td {
+	padding: 5.5px;
+}
+
+header {
+	background-color: #A9A9A9;
+	align: center;
+	font-size: 30px;
+	font-weight: bold;
+	color: white;
+	text-align: left;
+	padding: 20px;
+}
+
+header span {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 20px;
+}
+
+footer {
+	background-color: #A9A9A9;
+	color: white;
+	align: center;
+	text-align: right;
+	padding: 20px;
+}
+
+footer address {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 20px;
+}
+
+.thelogo {
+	vertical-align: middle;
+	width: 110px;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+}
